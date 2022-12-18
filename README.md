@@ -1,5 +1,5 @@
 # Doc-List-and-Association-List-Programs
-A series of functions revolving around doc-lists (DL) and inverted-lists which can:
+A series of functions centered around proecessing doc-lists (DL) and inverted-lists which can:
 
 a) consume two DLs and produce their intersection
 b) consume two Dls and produce their set difference
