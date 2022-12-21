@@ -3,8 +3,8 @@
 #reader(lib "htdp-beginner-abbr-reader.ss" "lang")((modname cs135search) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
 
 ;; A doc-list (DL) is one of:
-;; * empty
-;; * (cons Str DL)
+;; empty
+;; (cons Str DL)
 ;; Requires: each doc (i.e. Str) only occurs once in the doc-list
 ;; the doc-list is in lexicographic order
 
